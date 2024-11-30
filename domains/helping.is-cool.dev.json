@@ -1,0 +1,10 @@
+{
+  "subdomain": "helping",
+  "domain": "is-cool.dev",
+  "owner": {
+    "email": "thewonderedhelp@gmail.com"
+  },
+  "record": {
+    "A": ["dirección-ip"]
+  }
+}
